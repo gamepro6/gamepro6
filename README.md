@@ -1,2 +1,1 @@
-# gamepro6
-# gamepro6
+# gamepro6.github.io
